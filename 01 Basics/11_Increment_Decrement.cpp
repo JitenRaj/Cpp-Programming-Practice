@@ -7,7 +7,7 @@ int main() {
   cout<<"After Postfix increment ,num is " << num++ << endl;
   cout<<"Num is " <<num<<endl;
 
-  cout<<"After Prefix increment ,num is " << --num << endl;
+  cout<<"After Prefix increment ,num is " << ++num << endl;
   cout<<"Num is " <<num<<endl;
 
   cout<<"After Postfix decrement ,num is " << num-- << endl;
