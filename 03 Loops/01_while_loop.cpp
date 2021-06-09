@@ -1,3 +1,5 @@
+/* while loop program : basic syntax */
+
 #include<iostream>
 using namespace std;
 int main() {
