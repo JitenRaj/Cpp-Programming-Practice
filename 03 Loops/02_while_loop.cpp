@@ -1,3 +1,6 @@
+/* This is a while loop program to check output 
+at different iterations and final output in a while loop*/
+
 #include<iostream>
 using namespace std;
 int main() {
