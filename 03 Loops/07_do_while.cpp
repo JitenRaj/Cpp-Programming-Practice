@@ -9,5 +9,5 @@ int main() {
     cout<<"Do while loop : "<<num<<endl;
     num++;
   } while (num<10);
-  
+  return 0;
 }
