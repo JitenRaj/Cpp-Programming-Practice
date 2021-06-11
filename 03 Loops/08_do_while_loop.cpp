@@ -11,5 +11,5 @@ int main() {
     cout<< limit << " is greater than " << num <<endl;
     num++;
   } while (num<limit);
-  
+  return 0;
 }
