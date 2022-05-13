@@ -8,7 +8,7 @@ This repo contains the code snippets covering concepts of the C++ Programming La
 ##### Basic Concepts
 - [Basics](https://github.com/JitenRaj/Cpp-Programming-Practice/tree/main/01%20Basics)
 - [Conditions](https://github.com/JitenRaj/Cpp-Programming-Practice/tree/main/02%20Conditions)
-- [Loops](./03 Loops/)
-- [Data Types](./04 Data Types/)
-- [Arrays](./05 Arrays/)
-- [Class & Objects](./07 Class Objects/)
+- [Loops](https://github.com/JitenRaj/Cpp-Programming-Practice/tree/main/03%20Loops)
+- [Data Types](https://github.com/JitenRaj/Cpp-Programming-Practice/tree/main/04%20Data%20Types)
+- [Arrays](https://github.com/JitenRaj/Cpp-Programming-Practice/tree/main/05%20Arrays)
+- [Class & Objects](https://github.com/JitenRaj/Cpp-Programming-Practice/tree/main/07%20Class%20Objects)
